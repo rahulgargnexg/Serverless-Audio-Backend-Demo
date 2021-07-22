@@ -1,0 +1,7 @@
+{
+    "name": "Service-api",
+    "dependencies": {
+        "aws-sdk": "^2.950.0",
+        "uuid": "^8.3.2"
+    }
+}
